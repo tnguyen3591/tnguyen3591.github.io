@@ -14,6 +14,7 @@
         .jssora05l.jssora05lds      (disabled)
         .jssora05r.jssora05rds      (disabled)
         */
+#jssor_1{background-color: #24262e; height: 456px; left: 0px; margin: 0 auto; overflow: hidden; position: relative; top: 0px; visibility: hidden; width: 800px;}	
         .jssora05l, .jssora05r {
             display: block;
             position: absolute;
